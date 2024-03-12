@@ -1,2 +1,3 @@
 Hello world!
 Some addition outputting something for file2.txt
+This is a new feature
